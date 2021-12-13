@@ -1,4 +1,4 @@
-# RavitejaMCS
+# MCSRaviteja
 <<h1 align="center">Hi , I'm Raviteja</h1>
 <h3 align="center">An Electronics student but enthusiast in programming</h3>
 
