@@ -1,5 +1,5 @@
 # RavitejaMCS
-<h1 align="center">Hi , I'm Raviteja</h1>
+<<h1 align="center">Hi , I'm Raviteja</h1>
 <h3 align="center">An Electronics student but enthusiast in programming</h3>
 
 - 🌱 I’m currently learning **programming languages and DBMS**
@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ravitej24785885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravitej24785885" height="30" width="40" /></a>
-<a href="https://instagram.com/mcsraviteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcsraviteja" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravitejamcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravitejamcs" height="30" width="40" /></a>
 </p>
 
